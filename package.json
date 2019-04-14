@@ -1,0 +1,32 @@
+{
+  "description": "The iconic font, CSS, and SVG framework",
+  "keywords": [
+    "font"
+  ],
+  "homepage": "https://ss.com",
+  "bugs": {
+    "url": "http://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "author": {
+    "name": "ss"
+  },
+  "contributors": [
+    {
+      "name": "Brianas Talbot",
+      "web": "http://twitter.com/talbs"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sajjadm123/font1.git"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {},
+  "version": "6.0.0",
+  "name": "safonts",
+  "main": "main.js",
+  "style": "font-sa.css",
+  "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)"
+}
