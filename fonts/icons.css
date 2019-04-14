@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?3ba58f8e6a55d3394f7d78ded4258821?#iefix") format("embedded-opentype"),
+url("./icons.woff2?3ba58f8e6a55d3394f7d78ded4258821") format("woff2"),
+url("./icons.woff?3ba58f8e6a55d3394f7d78ded4258821") format("woff"),
+url("./icons.ttf?3ba58f8e6a55d3394f7d78ded4258821") format("truetype"),
+url("./icons.svg?3ba58f8e6a55d3394f7d78ded4258821#icons") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-baniguard-logo-little-copy:before {
+    content: "\f101";
+}
+.icon-combined-shape-copy:before {
+    content: "\f102";
+}
+.icon-combined-shape:before {
+    content: "\f103";
+}
+.icon-conection-system:before {
+    content: "\f104";
+}
+.icon-dashboard:before {
+    content: "\f105";
+}
+.icon-device:before {
+    content: "\f106";
+}
+.icon-hamberger-menu:before {
+    content: "\f107";
+}
+.icon-in-put:before {
+    content: "\f108";
+}
+.icon-out-put:before {
+    content: "\f109";
+}
+.icon-partition-big:before {
+    content: "\f10a";
+}
+.icon-partition:before {
+    content: "\f10b";
+}
+.icon-room:before {
+    content: "\f10c";
+}
+.icon-scan:before {
+    content: "\f10d";
+}
+.icon-system-setting:before {
+    content: "\f10e";
+}
+.icon-user-setting:before {
+    content: "\f10f";
+}
