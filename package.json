@@ -14,8 +14,8 @@
     "node": ">=6"
   },
   "dependencies": {},
-  "version": "1.0.0",
-  "name": "installer-fontes",
+  "version": "1.10.0",
+  "name": "installer-fonts2",
   "style": "vector-fonts.css",
   "license": "(MIT)"
 }
