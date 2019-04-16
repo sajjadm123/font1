@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sajjadm123/font1.git"
+    "url": "http://sajjad.mousavi@git.baninab.com/r/p1-baniguard/p1-baniguard-font-icon.git"
   },
   "engines": {
     "node": ">=6"
   },
   "dependencies": {},
   "version": "1.0.0",
-  "name": "installer-vectors",
+  "name": "installer-fontes",
   "style": "vector-fonts.css",
   "license": "(MIT)"
 }
